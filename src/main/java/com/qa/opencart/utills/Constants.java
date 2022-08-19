@@ -11,7 +11,7 @@ public class Constants {
     public static final String REGISTER_PAGE_TITLE = "Register Account";
     public static final  String ACCOUNT_CREATED = "Your Account Has Been Created!";
 
-    public static final  String ACCOUNT_PAGE_TITLE = "My Account";
+    public static final  String ACCOUNT_PAGE_TITLE = "My Account1";
     public static final String LOGIN_ERROR_MESSG = "No match for E-Mail Address and/or Password";
 
     public static  List<String> getExpectedArraylist(){
